@@ -23,8 +23,8 @@ We use Python libraries like Pandas, Seaborn, and Matplotlib to perform statisti
 
 ## 📂 Files in this Project
 
-- `Titanic_EDA.ipynb` → Jupyter Notebook containing the full EDA workflow.
-- `Titanic_EDA_Report.pdf` → Exported PDF report with all visualizations and findings.
+- `Task-5_Elevate_Labs_Internship` → Jupyter Notebook containing the full EDA workflow.
+- `Task-5_Elevate_Labs_Internship_PDF_Report.pdf` → Exported PDF report with all visualizations and findings.
 - `README.md` → Project overview and instructions.
 
 ---
@@ -44,7 +44,7 @@ We use Python libraries like Pandas, Seaborn, and Matplotlib to perform statisti
 ## 📋 How to Run This Project
 
 1. Clone the repository or download the project files.
-2. Open the `Titanic_EDA.ipynb` file in Jupyter Notebook or VS Code.
+2. Open the `Task-5_Elevate_Labs_Internship.ipynb` file in Jupyter Notebook or VS Code.
 3. Run each cell sequentially to reproduce the analysis.
 4. To generate a new PDF, export the notebook as a PDF via the Export option.
 
