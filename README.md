@@ -1,4 +1,4 @@
- Exploratory Data Analysis (EDA) 
+Exploratory Data Analysis (EDA) 
 Objective: Extract insights using visual and statistical exploration
 # Titanic EDA Project
 
